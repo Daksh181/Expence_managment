@@ -408,7 +408,4 @@ If you encounter any issues or have questions:
 - [Recharts](https://recharts.org/) for data visualization
 - [Tesseract.js](https://tesseract.projectnaptha.com/) for OCR functionality
 
----
-
 **Built with ❤️ using the MERN stack**
-
